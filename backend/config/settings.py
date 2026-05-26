@@ -137,7 +137,11 @@ MEDIA_ROOT = BASE_DIR / 'media'
 
 AUTH_USER_MODEL = 'tenancy.User'
 
-CORS_ALLOWED_ORIGINS = env.list('CORS_ALLOWED_ORIGINS', default=['http://localhost:5173'])
+_cors_origins = env.list('CORS_ALLOWED_ORIGINS', default=['http://localhost:5173'])
+# Allow all origins when CORS_ALLOW_ALL=True (useful during initial deployment)
+CORS_ALLOW_ALL_ORIGINS = env.bool('CORS_ALLOW_ALL', default=False)
+if not CORS_ALLOW_ALL_ORIGINS:
+    CORS_ALLOWED_ORIGINS = _cors_origins
 CORS_ALLOW_CREDENTIALS = True
 
 CSRF_TRUSTED_ORIGINS = env.list('CSRF_TRUSTED_ORIGINS', default=['http://localhost:5173'])
