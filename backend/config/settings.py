@@ -23,10 +23,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 env = environ.Env(DEBUG=(bool, False))
-environ.Env.read_env(BASE_DIR / '.env')
+# Read .env file if present (local dev); in production env vars are set directly
+environ.Env.read_env(BASE_DIR / '.env', overwrite=False)
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = env('SECRET_KEY', default='django-insecure-change-me')
+SECRET_KEY = env('SECRET_KEY', default='django-insecure-build-only-change-in-production')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool('DEBUG', default=True)
