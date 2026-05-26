@@ -1,0 +1,121 @@
+﻿Werk,Materialkurztext,Menge,ME,Kostenstelle,Lieferant,Buchungsdatum,Kraftstoffart,WÃ¤hrung
+DE01,Petrol blend,940.81,l,CC-210,Shell DE,2026/05/25,kerosene,USD
+CZ12,Industrial lubricant,892.16,l,CC-210,BP Europe,2026/05/24,kerosene,EUR
+DE01,Bulk LPG,255.41,tonnes,CC-330,Orlen,2026/05/23,unknown,EUR
+PL07,Boiler kerosene,1257.84,KG,CC-100,Shell DE,2026/05/22,kerosene,EUR
+DE02,Bulk LPG,735.41,l,CC-330,Shell DE,2026/05/21,petrol,EUR
+PL07,Diesel fuel,1254.59,gal,CC-480,TotalEnergies,2026/05/20,kerosene,GBP
+NL03,Industrial lubricant,891.35,gal,CC-480,BP Europe,2026/05/19,petrol,USD
+DE01,Petrol blend,717.84,L,CC-100,Shell DE,2026/05/18,diesel,GBP
+CZ12,Industrial lubricant,142.16,gal,CC-480,TotalEnergies,2026/05/17,unknown,GBP
+DE02,Petrol blend,933.51,tonnes,CC-100,Shell DE,16.05.2026,unknown,EUR
+DE02,Petrol blend,771.35,tonnes,CC-210,Orlen,2026/05/15,natural gas,EUR
+PL07,Bulk LPG,850.54,tonnes,CC-100,BASF AG,2026/05/14,petrol,USD
+NL03,Bulk LPG,109.73,L,CC-100,BP Europe,2026/05/13,unknown,GBP
+CZ12,Boiler kerosene,57.57,tonnes,CC-100,BP Europe,2026/05/12,natural gas,GBP
+DE01,Bulk LPG,950.27,KG,CC-330,BP Europe,2026/05/11,kerosene,USD
+DE01,Bulk LPG,552.7,tonnes,CC-210,Orlen,2026/05/10,unknown,EUR
+NL03,Bulk LPG,580,gal,CC-210,Orlen,2026/05/09,kerosene,GBP
+DE02,Petrol blend,214.59,KG,CC-210,BP Europe,2026/05/08,kerosene,USD
+NL03,Boiler kerosene,473.24,gal,CC-480,BP Europe,2026/05/07,diesel,GBP
+DE01,Bulk LPG,588.92,gal,CC-330,Shell DE,06.05.2026,petrol,EUR
+NL03,Diesel fuel,629.19,KG,CC-480,TotalEnergies,2026/05/05,unknown,EUR
+DE01,Industrial lubricant,288.65,tonnes,CC-210,TotalEnergies,2026/05/04,natural gas,EUR
+PL07,Bulk LPG,700,t,CC-330,BP Europe,2026/05/03,natural gas,GBP
+NL03,Boiler kerosene,740.81,l,CC-100,TotalEnergies,2026/05/02,diesel,USD
+PL07,Bulk LPG,491.89,l,CC-330,Orlen,2026/05/01,kerosene,EUR
+DE01,Bulk LPG,187.3,KG,CC-330,TotalEnergies,2026/04/30,petrol,USD
+NL03,Diesel fuel,21.35,l,CC-330,BP Europe,2026/04/29,petrol,GBP
+DE02,Diesel fuel,851.35,L,CC-210,TotalEnergies,2026/04/28,unknown,GBP
+CZ12,Diesel fuel,-15,t,CC-100,BP Europe,2026/04/27,unknown,USD
+PL07,Bulk LPG,609.19,L,CC-480,Shell DE,26.04.2026,diesel,USD
+PL07,Diesel fuel,19.73,t,CC-480,BP Europe,2026/04/25,unknown,USD
+DE01,Industrial lubricant,1028.11,gal,CC-210,BASF AG,2026/04/24,natural gas,USD
+PL07,Petrol blend,93.24,gal,CC-480,BP Europe,2026/04/23,unknown,GBP
+CZ12,Bulk LPG,895.14,t,CC-210,BP Europe,2026/04/22,kerosene,EUR
+CZ12,Petrol blend,1108.65,KG,CC-330,BASF AG,2026/04/21,natural gas,EUR
+CZ12,Diesel fuel,878.11,L,CC-330,BP Europe,2026/04/20,kerosene,GBP
+DE01,Petrol blend,,KG,CC-330,Shell DE,2026/04/19,diesel,USD
+NL03,Diesel fuel,408.65,KG,CC-330,BASF AG,2026/04/18,kerosene,EUR
+CZ12,Boiler kerosene,420.27,gal,CC-210,BP Europe,2026/04/17,kerosene,GBP
+DE02,Industrial lubricant,853.51,gal,CC-100,BASF AG,16.04.2026,unknown,GBP
+NL03,Bulk LPG,288.38,tonnes,CC-330,Orlen,2026/04/15,natural gas,EUR
+CZ12,Bulk LPG,1274.05,gal,CC-480,TotalEnergies,2026/04/14,natural gas,EUR
+CZ12,Boiler kerosene,1186.22,tonnes,CC-100,TotalEnergies,2026/04/13,natural gas,EUR
+NL03,Petrol blend,380,l,CC-330,TotalEnergies,2026/04/12,natural gas,EUR
+NL03,Petrol blend,867.57,tonnes,CC-210,Shell DE,2026/04/11,diesel,EUR
+DE02,Industrial lubricant,978.11,gal,CC-480,TotalEnergies,2026/04/10,petrol,GBP
+DE01,Bulk LPG,833.51,l,CC-330,BASF AG,2026/04/09,kerosene,USD
+DE01,Boiler kerosene,761.62,KG,CC-480,Shell DE,2026/04/08,petrol,GBP
+PL07,Boiler kerosene,988.11,l,CC-210,TotalEnergies,2026/04/07,kerosene,GBP
+DE01,Petrol blend,123.24,L,CC-480,Orlen,06.04.2026,natural gas,EUR
+CZ12,Boiler kerosene,1158.11,L,CC-100,BP Europe,2026/04/05,natural gas,EUR
+DE01,Industrial lubricant,818.65,L,CC-210,TotalEnergies,2026/04/04,petrol,USD
+PL07,Industrial lubricant,22.7,KG,CC-100,BASF AG,2026/04/03,kerosene,USD
+NL03,Diesel fuel,1151.62,KG,CC-210,Orlen,2026/04/02,diesel,USD
+DE01,Bulk LPG,877.3,l,CC-480,BASF AG,2026/04/01,diesel,GBP
+PL07,Industrial lubricant,1244.59,gal,CC-480,Shell DE,2026/03/31,unknown,EUR
+DE02,Diesel fuel,781.08,l,CC-210,BP Europe,2026/03/30,petrol,GBP
+DE01,Petrol blend,-15,gal,CC-330,BP Europe,2026/03/29,natural gas,GBP
+DE01,Diesel fuel,1220,L,CC-210,Orlen,2026/03/28,kerosene,EUR
+PL07,Industrial lubricant,1301.08,l,CC-210,BP Europe,27.03.2026,natural gas,GBP
+DE01,Bulk LPG,180.27,t,CC-100,BP Europe,2026/03/26,unknown,EUR
+NL03,Bulk LPG,354.32,l,CC-210,Shell DE,2026/03/25,petrol,USD
+NL03,Industrial lubricant,607.3,l,CC-100,Shell DE,2026/03/24,diesel,USD
+CZ12,Boiler kerosene,942.7,gal,CC-210,BASF AG,2026/03/23,kerosene,GBP
+DE02,Petrol blend,834.32,L,CC-330,BASF AG,2026/03/22,diesel,GBP
+NL03,Boiler kerosene,52.43,l,CC-480,BASF AG,2026/03/21,diesel,GBP
+DE02,Bulk LPG,297.03,gal,CC-330,Orlen,2026/03/20,unknown,USD
+CZ12,Industrial lubricant,1084.86,l,CC-330,BP Europe,2026/03/19,diesel,GBP
+NL03,Diesel fuel,311.35,gal,CC-330,BP Europe,2026/03/18,unknown,GBP
+NL03,Diesel fuel,824.32,gal,CC-100,BASF AG,17.03.2026,natural gas,USD
+DE01,Boiler kerosene,979.46,l,CC-480,BP Europe,2026/03/16,unknown,USD
+NL03,Boiler kerosene,622.7,tonnes,CC-330,Shell DE,2026/03/15,kerosene,GBP
+PL07,Industrial lubricant,1109.19,l,CC-210,TotalEnergies,2026/03/14,petrol,USD
+NL03,Diesel fuel,,gal,CC-100,Shell DE,2026/03/13,natural gas,USD
+NL03,Industrial lubricant,697.3,t,CC-210,BP Europe,2026/03/12,kerosene,EUR
+DE01,Boiler kerosene,762.16,l,CC-330,Orlen,2026/03/11,unknown,GBP
+CZ12,Diesel fuel,1163.78,tonnes,CC-480,BASF AG,2026/03/10,natural gas,EUR
+NL03,Boiler kerosene,950.81,L,CC-100,Shell DE,2026/03/09,unknown,USD
+PL07,Petrol blend,143.78,L,CC-100,BP Europe,2026/03/08,diesel,GBP
+PL07,Diesel fuel,9.46,l,CC-100,BP Europe,07.03.2026,natural gas,GBP
+PL07,Petrol blend,791.08,t,CC-100,Shell DE,2026/03/06,diesel,EUR
+PL07,Petrol blend,556.76,gal,CC-480,TotalEnergies,2026/03/05,natural gas,EUR
+NL03,Bulk LPG,618.38,L,CC-480,BASF AG,2026/03/04,kerosene,USD
+CZ12,Bulk LPG,691.08,KG,CC-210,BASF AG,2026/03/03,petrol,EUR
+DE01,Boiler kerosene,618.92,L,CC-330,BASF AG,2026/03/02,unknown,GBP
+DE01,Boiler kerosene,797.3,KG,CC-330,BP Europe,2026/03/01,diesel,USD
+PL07,Petrol blend,-15,tonnes,CC-210,TotalEnergies,2026/02/28,diesel,GBP
+PL07,Boiler kerosene,1306.76,tonnes,CC-330,BASF AG,2026/02/27,natural gas,GBP
+DE02,Industrial lubricant,1021.62,tonnes,CC-330,BP Europe,2026/02/26,unknown,EUR
+CZ12,Petrol blend,1054.32,gal,CC-330,TotalEnergies,25.02.2026,petrol,GBP
+DE02,Industrial lubricant,933.78,L,CC-330,Shell DE,2026/02/24,kerosene,GBP
+CZ12,Diesel fuel,967.84,gal,CC-100,BASF AG,2026/02/23,diesel,USD
+NL03,Petrol blend,356.22,tonnes,CC-330,Orlen,2026/02/22,petrol,GBP
+CZ12,Bulk LPG,1160,t,CC-330,BASF AG,2026/02/21,unknown,GBP
+CZ12,Boiler kerosene,293.78,L,CC-210,TotalEnergies,2026/02/20,natural gas,USD
+DE01,Boiler kerosene,740,t,CC-330,Shell DE,2026/02/19,unknown,EUR
+DE02,Petrol blend,1302.7,KG,CC-210,BASF AG,2026/02/18,natural gas,USD
+PL07,Petrol blend,32.97,l,CC-480,BP Europe,2026/02/17,unknown,USD
+DE01,Bulk LPG,308.11,tonnes,CC-100,BASF AG,2026/02/16,diesel,USD
+NL03,Boiler kerosene,558.11,l,CC-100,Shell DE,15.02.2026,unknown,GBP
+DE02,Diesel fuel,967.84,t,CC-480,BP Europe,2026/02/14,unknown,EUR
+DE02,Boiler kerosene,14.86,tonnes,CC-210,BP Europe,2026/02/13,unknown,GBP
+NL03,Bulk LPG,775.14,gal,CC-480,Orlen,2026/02/12,kerosene,EUR
+PL07,Industrial lubricant,25.41,L,CC-100,BASF AG,2026/02/11,diesel,USD
+NL03,Petrol blend,533.24,L,CC-210,TotalEnergies,2026/02/10,kerosene,GBP
+DE02,Bulk LPG,311.89,KG,CC-480,BASF AG,2026/02/09,petrol,USD
+DE01,Boiler kerosene,383.78,t,CC-210,Shell DE,2026/02/08,unknown,USD
+NL03,Boiler kerosene,888.11,tonnes,CC-480,Shell DE,2026/02/07,kerosene,GBP
+CZ12,Diesel fuel,1179.19,tonnes,CC-330,Orlen,2026/02/06,diesel,EUR
+DE02,Boiler kerosene,885.68,tonnes,CC-100,BP Europe,05.02.2026,petrol,USD
+NL03,Industrial lubricant,,gal,CC-330,BASF AG,2026/02/04,natural gas,GBP
+NL03,Boiler kerosene,901.35,tonnes,CC-480,Shell DE,2026/02/03,petrol,USD
+DE02,Diesel fuel,74.86,L,CC-210,BASF AG,2026/02/02,diesel,USD
+DE01,Industrial lubricant,738.11,gal,CC-210,BASF AG,2026/02/01,unknown,GBP
+PL07,Bulk LPG,685.95,KG,CC-480,BASF AG,2026/01/31,kerosene,USD
+NL03,Diesel fuel,-15,gal,CC-100,Shell DE,2026/01/30,unknown,GBP
+PL07,Industrial lubricant,638.65,tonnes,CC-210,BP Europe,2026/01/29,kerosene,GBP
+DE01,Petrol blend,869.19,KG,CC-480,TotalEnergies,2026/01/28,kerosene,GBP
+PL07,Boiler kerosene,1255.95,gal,CC-210,Orlen,2026/01/27,diesel,EUR
+PL07,Boiler kerosene,1204.05,t,CC-100,TotalEnergies,26.01.2026,diesel,EUR
